@@ -143,10 +143,6 @@
     <ClCompile Include="ms-dfsnm_c.c" />
   </ItemGroup>
   <ItemGroup>
-    <Midl Include="ms-dfsnm.idl" />
-    <Midl Include="ms-dtyp.idl" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="ms-dfsnm_h.h" />
     <ClInclude Include="ms-dtyp.h" />
     <ClInclude Include="ms-dtyp_h.h" />
